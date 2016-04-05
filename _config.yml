@@ -1,0 +1,14 @@
+layout_spectrum: 0.6582471
+typography_spectrum: 0.2870599
+color:
+  saturation: 0.5943138
+  lightness: 0.6797325
+  brandStrength: 0.3693459
+  rhythmicContrast: 0.4898876
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: Win Win
