@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Win Win]]></title>
         <description><![CDATA[Win Win]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.winwin.earth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 12:26:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 06 Apr 2016 06:44:28 GMT</lastBuildDate>
+        <atom:link href="http://www.winwin.earth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Join the Revolution</p>]]></description>
+            <link>http://www.winwin.earth/f20602e7-cf9c-42ab-baf8-3233e3ed04b7/index.html</link>
+            <guid isPermaLink="false">f20602e7-cf9c-42ab-baf8-3233e3ed04b7</guid>
+            <pubDate>Wed, 06 Apr 2016 06:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Vertical Farms]]></title>
             <description><![CDATA[<h1>Vertical Farms</h1>]]></description>
-            <link>undefinedvertical-farms/index.html</link>
+            <link>http://www.winwin.earth/vertical-farms/index.html</link>
             <guid isPermaLink="false">9f336e6e-d038-485d-8e4e-a76439ed820a</guid>
             <pubDate>Tue, 05 Apr 2016 12:26:09 GMT</pubDate>
         </item>
