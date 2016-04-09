@@ -1,29 +1,41 @@
-name: Win Win
-favicon: null
-layout_spectrum: 0.6582471
-typography_spectrum: 0.2870599
 title: Win Win
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5943138
+  brandStrength: 0.375
+  rhythmicContrast: 0.4898876
   brandColors:
     - '#060606'
     - '#a1d1ff'
     - '#5794e5'
     - '#2a3b59'
     - '#f0f5f8'
-  brandStrength: 0.375
   lightness: 0.6797325
-  saturation: 0.5943138
-  rhythmicContrast: 0.4898876
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Win Win
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0
