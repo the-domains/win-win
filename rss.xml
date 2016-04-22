@@ -4,28 +4,14 @@
         <description><![CDATA[Win Win]]></description>
         <link>http://www.winwin.earth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 21:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 07:22:20 GMT</lastBuildDate>
         <atom:link href="http://www.winwin.earth/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cf12a22-7d40-4b46-aa4f-d466d007b24a.png">]]></description>
-            <link>http://www.winwin.earth/7e7f4be8-1015-4a22-b25a-0ea4e0b96f97/index.html</link>
-            <guid isPermaLink="false">7e7f4be8-1015-4a22-b25a-0ea4e0b96f97</guid>
-            <pubDate>Sat, 09 Apr 2016 06:08:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de858816-959b-409e-8e24-9e6bd9ece840.png">]]></description>
             <link>http://www.winwin.earth/174e6a84-9d56-4ada-ba28-1bb1913bf12e/index.html</link>
             <guid isPermaLink="false">174e6a84-9d56-4ada-ba28-1bb1913bf12e</guid>
             <pubDate>Fri, 08 Apr 2016 05:39:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Join the Revolution</p>]]></description>
-            <link>http://www.winwin.earth/f20602e7-cf9c-42ab-baf8-3233e3ed04b7/index.html</link>
-            <guid isPermaLink="false">f20602e7-cf9c-42ab-baf8-3233e3ed04b7</guid>
-            <pubDate>Wed, 06 Apr 2016 06:44:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
